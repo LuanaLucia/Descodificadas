@@ -114,7 +114,6 @@ body {
         width: 100%;
         height: 0;
         overflow: hidden;
-        padding-top:65px
     }
     .nav div.show_list {
         height: auto;
@@ -127,7 +126,6 @@ body {
         bottom: 0;
         background-color: var(--pink-destaque);
         float: right;
-        /*same background color of navbar*/
         background-position: center top;
     }
     .nav div.main_list ul li {
@@ -447,27 +445,18 @@ body {
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 3;
-    background-image: url(./assets/carla-luca-de-tena-HCrV-ujEPv4-unsplash.jpg);
-    background-position: center center;
-	background-size:cover;
 }
 .img2 {
     margin: 10px;
     grid-column-start: 1;
     grid-row-start: 3;
     grid-row-end: 5;
-    background-image: url(./assets/ibuki-tsubo-poAWRpNGfQk-unsplash.jpg);
-    background-position: center center;
-	background-size:cover;
 }
 .img3 {
     margin: 10px;
     grid-column-start: 2;
     grid-row-start: 3;
     grid-row-end: 5;
-    background-image: url(./assets/daniel-jerico-QiFt2MRtJxg-unsplash.jpg);
-    background-position: center center;
-	background-size:cover;
 }
 .img4 {
     margin: 10px;
@@ -475,7 +464,81 @@ body {
     grid-column-end: 4;
     grid-row-start: 1;
     grid-row-end: 5;
-    background-image: url(./assets/koen-eijkelenboom-Qpjl_dXQrD8-unsplash.jpg);
-    background-position: center center;
-	background-size:cover;
+}
+
+figure {
+    float: right;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-style: italic;
+    font-size: 10px;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+  img.scaled1 {
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+  }
+  img.scaled2 {
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+  }
+  img.scaled3 {
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+  }
+  img.scaled4 {
+    height: 95%;
+    width:100%; 
+    object-fit: cover;
+  }
+  
+  footer{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    background-color: #D83772;
+  }
+
+  .sobre{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+  }
+  .sobre .video{
+    padding: 30px;
+  }
+
+  .container-local{
+    display:flex;
+    align-items: center;
+    align-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+.mapa{
+    padding: 30px;
+}
+textarea, select{
+    font-family: "Quicksand", sans-serif;
+    font-size: small;
+}
+label{
+    font-weight: bold;
+}
+.local{
+    background-color: #FFEDF2;
+}
+
+@media screen and (max-width:768px) {
+    .container-local{
+        display:block;
+        padding: 10%;
+    }
 }
