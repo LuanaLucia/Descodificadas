@@ -1,13 +1,70 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title></title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 </head>
 <body>
-    
+    <nav class="nav">
+        <div class="container">
+           <div class="logo"> <a>ExpoCat</a></div>
+            <div id="mainListDiv" class="main_list">
+                
+                <ul class="navlinks">
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Fique Por Dentro</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </div>
+            <span class="navTrigger">
+                <i></i>
+                <i></i>
+                <i></i>
+            </span>
+        </div>
+    </nav>
+
+    <section class="home">
+        <div class="container-cover">
+            <h3> De 06 a 09 de Setembro</h3>
+            <h1><a href="#" class="author title">ExpoCat</a></h1>
+            <h3>Na ExpoPet</h3>
+        </div>
+    </section>
+    <section id="howWorks">
+    <div style="height: 1000px"><br><br><br>
+			<h2 class="myH2">Sobre</h2>
+			<p class="myP">
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt magnam officiis sint dolor nobis qui voluptas fugiat similique aperiam consectetur libero deleniti, nulla, sapiente, iste earum corporis facilis itaque minus ea illum atque. Harum rerum, illum corrupti quae voluptatem omnis repellat, temporibus iure, velit molestiae odit corporis excepturi debitis cumque! Numquam dolore eum, omnis corporis itaque, cum voluptates sequi maiores laudantium nobis unde porro labore suscipit. Quis cupiditate saepe sequi, recusandae adipisci at consequuntur aut dolor doloribus reprehenderit, quia excepturi omnis vel minus nisi delectus aliquid non suscipit sed ullam? Earum tempore, pariatur consequatur nostrum exercitationem sint illum cum quos officiis voluptatum vitae dolor ratione vero quae doloremque dolore facilis possimus et debitis officia deserunt sequi quisquam? Illo dolores maiores eveniet est eius ducimus ratione veritatis provident, excepturi corporis suscipit. Numquam tempore non quaerat iure qui debitis, maxime explicabo adipisci enim officia itaque voluptatibus, perspiciatis, a accusantium eos porro facilis.<br>
+            </p>
+
+            <div class="galeria">
+                <div class="img1"></div>
+                <div class="img2"></div>
+                <div class="img3"></div>
+                <div class="img4"></div>
+                <div class="img5"></div>
+             </div>
+    </div>
+</section>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+
+    <script>
+        $(window).scroll(function() {
+            if ($(document).scrollTop() > 50) {
+                $('.nav').addClass('affix');
+                console.log("OK");
+            } else {
+                $('.nav').removeClass('affix');
+            }
+        });
+    </script>
 </body>
 </html>
