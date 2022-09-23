@@ -10,6 +10,8 @@ nav {
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-color: rgba(79,71,78,1);
+    color: aliceblue;
 }
 .container-menu{
     width:90vw;
@@ -28,7 +30,7 @@ nav {
 }
 .menu a{
     text-decoration: none;
-    color: #212121;
+    color: aliceblue;
     font-size: small;
     font-weight: 700;
     
