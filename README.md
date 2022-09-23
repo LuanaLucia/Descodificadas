@@ -24,4 +24,4 @@
    [T1S2]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-2/>
    [T1S3]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-2/>
    [T1S4]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-2/>
-   [T1S5]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-2/>s
+   [T1S5]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-2/>
