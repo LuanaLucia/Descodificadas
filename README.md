@@ -18,6 +18,7 @@
     | Semana 4 | [Formulário][T1S4] |
     | Semana 5 | [Pré-Projeto][T1S5] |
     | Semana 6 | [Seletores][T1S6] |
+    | Semana 7 | [Seletores][T1S7] |
 
 [//]: #
 
@@ -27,3 +28,4 @@
    [T1S4]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-4/>
    [T1S5]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-5/>
    [T1S6]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-6/>
+   [T1S7]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-7/>
