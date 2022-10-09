@@ -18,7 +18,7 @@
     | Semana 4 | [Formulário][T1S4] |
     | Semana 5 | [Pré-Projeto][T1S5] |
     | Semana 6 | [Seletores][T1S6] |
-    | Semana 7 | [Seletores][T1S7] |
+    | Semana 7 | [Box Model][T1S7] |
 
 [//]: #
 
