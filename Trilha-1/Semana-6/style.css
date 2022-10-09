@@ -1,0 +1,25 @@
+.linha{
+    display: flex;
+}
+.vermelho{
+    background-color: rgb(255, 116, 116);
+}
+.amarelo{
+    background-color: rgb(255, 255, 132);
+}
+.verde{
+    background-color: lightgreen;
+}
+.azul{
+    background-color: rgb(117, 255, 248);
+}
+.quad {
+    border: 1px solid white;
+    width: 100px;
+    height: 100px;
+}
+
+.borda-preta{
+    display: inline-block;
+    border: 1px solid black;
+}
