@@ -2,13 +2,13 @@
 #### Atividades das trilhas
 
 
-- Trila 0 - Onboarding
+- Trilha 0 - Onboarding
 
     | Etapa | Link |
     | ------ | ------ |
     | Desafio | [ExpoCat][T0DF] |
 
-- Trila 1 - Front-End
+- Trilha 1 - Front-End
 
     | Etapa | Link |
     | ------ | ------ |
