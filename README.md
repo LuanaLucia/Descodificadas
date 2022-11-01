@@ -2,13 +2,13 @@
 #### Atividades das trilhas
 
 
-- Trila 0 - Onboarding
+- Trilha 0 - Onboarding
 
     | Etapa | Link |
     | ------ | ------ |
     | Desafio | [ExpoCat][T0DF] |
 
-- Trila 1 - Front-End
+- Trilha 1 - Front-End
 
     | Etapa | Link |
     | ------ | ------ |
@@ -18,9 +18,9 @@
     | Semana 4 | [Formulário][T1S4] |
     | Semana 5 | [Pré-Projeto][T1S5] |
     | Semana 6 | [Seletores][T1S6] |
-    | Semana 7 | [Seletores][T1S7] |
+    | Semana 7 | [Box Model][T1S7] |
     | Semana 8 | [Ada Lovelace][T1S8] |
-
+    
 [//]: #
 
    [T0DF]: <https://luanalucia.github.io/Descodificadas/Desafio-Onboarding/>
