@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+.container{
+    display: flex;
+}
+.capa{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.titulo{
+    background-color: rgb(212, 212, 212);
+    padding: 10px 10px;
+    margin-bottom: 30px;
+}
+.capa, .sobre{
+    width: 50%;
+    padding: 30px;
+    height: 87vh;
+}
+img{
+    width: fit-content;
+    height: 65vh;
+    object-fit: cover;
+}

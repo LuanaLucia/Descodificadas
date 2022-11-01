@@ -19,6 +19,7 @@
     | Semana 5 | [Pré-Projeto][T1S5] |
     | Semana 6 | [Seletores][T1S6] |
     | Semana 7 | [Seletores][T1S7] |
+    | Semana 8 | [Ada Lovelace][T1S8] |
 
 [//]: #
 
@@ -29,3 +30,4 @@
    [T1S5]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-5/>
    [T1S6]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-6/>
    [T1S7]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-7/>
+   [T1S8]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-8/>
