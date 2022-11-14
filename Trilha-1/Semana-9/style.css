@@ -1,0 +1,22 @@
+img {
+    animation: pulsar 1s infinite;
+    margin: 0 auto;
+    display: table;
+    animation-direction: alternate;
+    animation-name: pulsar;
+  }
+  
+  @keyframes pulsar {
+    0% {
+      transform: scale(0.7);
+    }
+    100% {
+      transform: scale(0.8);
+    }
+  }
+  h1{
+    color: blueviolet;
+  }
+  h3{
+    color: deeppink;
+  }
