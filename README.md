@@ -21,6 +21,7 @@
     | Semana 7 | [Box Model][T1S7] |
     | Semana 8 | [Ada Lovelace][T1S8] |
     | Semana 9 | [Coração Pulsante][T1S9] |
+    | Semana 11 | [Projeto][T1S11] |
     
 [//]: #
 
@@ -33,3 +34,4 @@
    [T1S7]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-7/>
    [T1S8]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-8/>
    [T1S9]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-9/>
+   [T1S11]: <https://luanalucia.github.io/Descodificadas/Trilha-1/Semana-11/>
